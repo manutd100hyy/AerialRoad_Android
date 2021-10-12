@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/Users/sytz/Documents/AerialRoad_Android/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/sytz/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/sytz/Documents/AerialRoad_Android/app/.cxx/Debug/4r2z1k62/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/sytz/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/sytz/Documents/AerialRoad_Android/app/.cxx/Debug/4r2z1k62/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "aerialroad-Debug-x86": {
+      "buildCommandComponents": [
+        "/Users/sytz/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/sytz/Documents/AerialRoad_Android/app/.cxx/Debug/4r2z1k62/x86",
+        "aerialroad"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "aerialroad",
+      "output": "/Users/sytz/Documents/AerialRoad_Android/app/build/intermediates/cxx/Debug/4r2z1k62/obj/x86/libaerialroad.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
